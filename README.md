@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to my portfolio!
 
-<!--
-**DanH2489/DanH2489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Systems Engineer | Data Practitioner & Experienced Automotive Professional
 
-Here are some ideas to get you started:
+I’m Daniel Harvey and I am a Senior Engineer at **JLR** specialising in the development of data intelligence solutions by bridging the gap between automotive domain expertise and advanced data analytics. I focus on transforming complex, high dimensional vehicle data into robust data products, using my years of experience in engineering to identify opportunities to resolve real world business and engineering problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Focus
+* **Domain Expertise:** Propulsion Systems, Predictive Maintenance, System Health Monitoring.
+* **Data Skills:** Machine Learning, Deep Learning, NLP, LLMs, Generative AI
+* **Data Stack:** Python (Numpy, Pandas, Scikit-Learn, Keras, Matplotlib), SQL, Tableau, Git.
+* **Core Philosophy:** Breaking down engineering problems into their fundamentals to reassemble them into transparent, data-driven solutions.
+
+### 📊 Featured Project
+**[Vehicle Price Feature Selection Study](https://github.com/DanH2489/vehicle-price-feature-selection-study)**
+
+*A comparative study on algorithmic vs. domain driven feature selection, identifying the "Generalisation Gap" in pricing models.*
+
+---
+
+📫 **Let's Connect:** [LinkedIn Profile](https://linkedin.com/in/danielharvey24)

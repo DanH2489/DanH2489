@@ -13,10 +13,14 @@ I’m Daniel Harvey and I am a Senior Engineer at **JLR** specialising in the de
 * **Data Stack:** Python (NumPy, Pandas, scikit-learn, Keras, Matplotlib), SQL, Tableau, Git.
 * **Core Philosophy:** Breaking down engineering problems into their fundamentals to reassemble them into transparent, data-driven solutions.
 
-### 📊 Featured Project
+### 📊 Featured Projects
 **[Vehicle Price Feature Selection Study](https://github.com/DanH2489/vehicle-price-feature-selection-study)**
 
 *A comparative study on algorithmic vs. domain driven feature selection, highlighting the trade-off between model accuracy and generalisation ("generalisation gap") in pricing models.*
+
+**[Industrial Propulsion Anomaly Detection](https://github.com/DanH2489/industrial-propulsion-anomaly-detection)**
+
+*Industrial anomaly detection using ship engine sensor data, comparing IQR, One-Class SVM, and Isolation Forest, evaluating univariate and multivariate approaches for predictive maintenance.*
 
 ---
 
